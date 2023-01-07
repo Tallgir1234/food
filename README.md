@@ -3,3 +3,7 @@
 biryani 
 
 magi
+
+flowers
+
+animals
